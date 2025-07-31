@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment1-11334923\\assignmentapp\\assignmentapp\\ticket price calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\ticket price calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment1-11334923\\assignmentapp\\assignmentapp\\triangle type identifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\triangle type identifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment1-11334923\\assignmentapp\\assignmentapp\\assignmentapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\assignmentapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment1-11334923\\assignmentapp\\assignmentapp\\ticket price calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\ticket price calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EEF7313-69EB-4098-B2BF-C09AF420F5DE}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment1-11334923\\assignmentapp\\assignmentapp\\grade calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignmentApp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\AssignmentApp.csproj",
+              "RelativeDocumentMoniker": "AssignmentApp\\AssignmentApp.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\AssignmentApp.csproj",
+              "RelativeToolTip": "AssignmentApp\\AssignmentApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T10:51:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Triangle Type Identifier.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\Triangle Type Identifier.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Triangle Type Identifier.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\Triangle Type Identifier.cs",
+              "RelativeToolTip": "AssignmentApp\\Triangle Type Identifier.cs",
+              "ViewState": "AgIAACEAAABgmZmZmZkBwCQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:49:02.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Ticket Price Calculator.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\Ticket Price Calculator.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\Ticket Price Calculator.cs",
@@ -39,19 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssignmentApp",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\AssignmentApp.csproj",
-              "RelativeDocumentMoniker": "AssignmentApp\\AssignmentApp.csproj",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\AssignmentApp.csproj",
-              "RelativeToolTip": "AssignmentApp\\AssignmentApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-31T10:17:25.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Grade Calculator.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment1-11334923\\AssignmentApp\\AssignmentApp\\Grade Calculator.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\Grade Calculator.cs",
@@ -59,8 +76,7 @@
               "RelativeToolTip": "AssignmentApp\\Grade Calculator.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T09:55:37.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T09:55:37.782Z"
             }
           ]
         }

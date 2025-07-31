@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>AssignmentApp.Ticket_Price_Calculator</StartupObject>
+    <StartupObject>AssignmentApp.Triangle_Type_Identifier</StartupObject>
   </PropertyGroup>
 
 </Project>
